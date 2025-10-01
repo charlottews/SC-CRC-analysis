@@ -10,3 +10,6 @@ Samples include multiple tissue conditions (normal, adenoma, carcinoma, para-can
 The main steps are: Quality Control (QC), Cell Cycle Scoring & Doublet Detection, Clustering & Dimension Reduction, Cell Type Annotation, Differential Expression (DEG) Analysis
 
 3.The analysis was performed using Seurat (Hao et al., Nature Biotechnology, 2023) with reference to best practices in single-cell analysis (Zheng et al., 2022).
+
+Workflow Reference:
+Zheng X, Song J, Yu C, et al. Single-cell transcriptomic profiling unravels the adenoma-initiation role of protein tyrosine kinases during colorectal tumorigenesis. Signal Transduct Target Ther. 2022;7(1):60. Published 2022 Feb 28. doi:10.1038/s41392-022-00881-8
